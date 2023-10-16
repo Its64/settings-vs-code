@@ -1,0 +1,34 @@
+{
+  "explorer.confirmDelete": false,
+  "editor.smoothScrolling": true,
+  "editor.fontSize": 18,
+  "editor.mouseWheelZoom": true,
+  "editor.fontWeight": "500",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "security.workspace.trust.untrustedFiles": "open",
+  "emmet.useNewEmmet": true,
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.showExpandedAbbreviation": "always", // required to work with "emmet.includeLanguages"
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "vue-html": "html"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "vue-html": "html"
+  },
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "python.analysis.diagnosticSeverityOverrides": {},
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.fontVariations": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "tabnine.experimentalAutoImports": true,
+  "workbench.colorTheme": "GitHub Dark Default",
+  "markdown-preview-github-styles.darkTheme": "dark_high_contrast"
+}
